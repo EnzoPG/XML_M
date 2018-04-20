@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+
+<pessoa>
+    <name>Robert Bruce Wallace, Jr</name>
+    <phone>770-995-1993</phone>
+    <fax>770-237-5712</fax>
+    <website>http://www.testandoestesite.com/</website>
+    <address>331 Ashbourne Trail</address>
+    <email>rbw@polyglotinc.com</email>
+    <age>25</age>
+    </pessoa>
+
+<pessoa>
+    <name>Hebert Richards</name>
+    <phone>999-999-9999</phone>
+    <fax>006-732-4792</fax>
+    <website>http://www.testandoestesite2.com/</website>
+    <address>410 New Street</address>
+    <email>teste@teste.com.br</email>
+    <age>54</age>
+    </pessoa>    
+
+<pessoa>
+    <name>Alamo</name>
+    <phone>000-000-0000</phone>
+    <fax>000-000-0000</fax>
+    <website>http://www.testandoestesite3.com/</website>
+    <address>410 Old Street Home</address>
+    <email>teste@teste23.com.br</email>
+    <age>19</age>
+    </pessoa>    
+
+<pessoa>
+    <name>Sergio Costa filho</name>
+    <phone>111-111-1111</phone>
+    <fax>205-024-3594</fax>
+    <website>http://www.testandoestesite4.com/</website>
+    <address>980 Rua Carvalho Oliveira</address>
+    <email>teste@teste52.com.br</email>
+    <age>47</age>
+    </pessoa> 
+   
+<pessoa>
+    <name>Estudart</name>
+    <phone>222-222-2222</phone>
+    <fax>485-651-3254</fax>
+    <website>http://www.testandoestesite5.com/</website>
+    <address>01 Rua do Canteiro</address>
+    <email>teste@teste65.com.br</email>
+    <age>72</age>
+    </pessoa>    
+</pessoas>
+
