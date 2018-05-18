@@ -111,7 +111,7 @@ $(document).ready(function(){
    processData:false,
    beforeSend:function(){
     $('#submit').attr('disabled','disabled'),
-    $('#submit').val('Imporando Arquivo...');
+    $('#submit').val('Importando Arquivo...');
    },
    success:function(data)
    {
